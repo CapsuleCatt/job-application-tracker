@@ -63,11 +63,6 @@ Pull requests are welcome! Feel free to suggest improvements or report issues.
 
 ---
 
-## 📜 License
-This project is **MIT licensed**. Feel free to modify and use it as needed!
-
----
-
 ## 🔗 References
 - [Google API Python Client](https://developers.google.com/api-client-library/python/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
